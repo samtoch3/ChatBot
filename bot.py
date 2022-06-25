@@ -21,7 +21,7 @@ import PySimpleGUI as sg
 import time
 import json
 
-token = '5434468014:AAHHtgNIeC_F0hKULu_KZSFDEmgX_VA1hvY'
+token = 'ABCDEFGHIGKLMONPQRSTUVWXYZ'
 updater = Updater(token, use_context=True)
 dico = {}
 
